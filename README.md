@@ -1,6 +1,6 @@
 # Web3Modal WalletConnect Example with Next.js
 
-This is a simple Next.js project demonstrating how to connect to a Web3 wallet (like MetaMask) using **Web3Modal** and **WalletConnect**. It uses a **public RPC** for the Ethereum Sepolia testnet — **no Infura or Alchemy required**.
+This is a simple Next.js/React project demonstrating how to connect to a Web3 wallet (like MetaMask) using **Web3Modal** and **WalletConnect**. It uses a **public RPC** for the Ethereum Sepolia testnet — **no Infura or Alchemy required**.
 
 ---
 
